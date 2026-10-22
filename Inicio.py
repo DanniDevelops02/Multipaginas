@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Are you lost bbgirl")
+st.title("Bienvenido a la multipagina de streamlit")
